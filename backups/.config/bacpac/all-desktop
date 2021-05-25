@@ -27,7 +27,6 @@ aria2c-daemon
 artix-keyring
 artix-mirrorlist
 asciidoc
-asr-manpages
 astyle
 at-spi2-atk
 at-spi2-core
@@ -39,6 +38,7 @@ audio-convert
 audiofile
 audit
 autoconf
+autoconf-archive
 automake
 avahi
 avahi-runit
@@ -47,7 +47,6 @@ avr-gcc
 avr-libc
 avrdude
 babl
-balz
 barrier
 barrier-headless
 base
@@ -140,7 +139,6 @@ dosfstools
 double-conversion
 dragon-drag-and-drop-git
 dunst
-dust-bin
 e2fsprogs
 egl-wayland
 eglexternalplatform
@@ -248,7 +246,6 @@ gnutls
 go
 gobject-introspection
 gobject-introspection-runtime
-gohufont
 goocanvas
 gotop-bin
 gparted
@@ -879,7 +876,6 @@ pamixer
 pandoc
 pango
 pangomm
-paq8o
 parted
 paru
 paswitch
@@ -1153,6 +1149,7 @@ shaderc
 shadow
 shared-mime-info
 shellcheck
+simple-mtpfs
 simulide
 skroll
 sl
@@ -1177,7 +1174,6 @@ srecord
 srt
 stalonetray
 startup-notification
-steam-fonts
 stella
 stfl
 stow
@@ -1204,7 +1200,6 @@ tex-gyre-fonts
 texinfo
 thin-provisioning-tools
 tigervnc
-timer
 timidity++
 tk
 tor
@@ -1309,7 +1304,6 @@ wine-mono
 winetricks
 wmctrl
 woff2
-womic
 wpa_supplicant
 wpebackend-fdo
 wxgtk-common
@@ -1325,7 +1319,6 @@ xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
 xclip
-xcowsay
 xdg-dbus-proxy
 xdg-utils
 xdotool
@@ -1388,7 +1381,6 @@ zip
 zita-alsa-pcmi
 zita-resampler
 zlib
-zpaq
 zsh
 zsh-completions
 zsh-fast-syntax-highlighting-git

@@ -1,14 +1,11 @@
 adbfs-rootless-git
 archivemount
-asr-manpages
 atool-git
-balz
 bash-pipes
 bashmount
 bdf-zevv-peep
 cava
 dragon-drag-and-drop-git
-dust-bin
 epson-inkjet-printer-l800
 epub-thumbnailer-git
 epy-git
@@ -22,7 +19,6 @@ fontpreview-ueberzug-git
 fonts-meta-extended-lt
 gimp-plugin-registry
 glxinfo
-gohufont
 gotop-bin
 gtklp
 hydroxide
@@ -41,7 +37,6 @@ nottetris2
 otf-sansita
 pacman4console
 pacmixer
-paq8o
 paswitch
 perl-expect
 pfetch
@@ -55,11 +50,10 @@ qucs
 ripcord
 safeeyes
 sc-im
+simple-mtpfs
 simulide
 skroll
 srecord
-steam-fonts
-timer
 transmission-trackers-git
 tremc-git
 ttf-alegreya-sans
@@ -80,10 +74,7 @@ uwufetch
 vazir-fonts
 vitetris
 webui-aria2
-womic
-xcowsay
 xkblayout-state-git
 xkblayout-subscribe-git
 xwinwrap-git
-zpaq
 zsh-fast-syntax-highlighting-git
