@@ -1,6 +1,7 @@
 adbfs-rootless-git
 adms
 aria2p
+atool-git
 bash-pipes
 bashmount
 bdf-zevv-peep
@@ -14,7 +15,6 @@ figlet-fonts
 figlet-fonts-extra
 flasciibird
 fontpreview-ueberzug-git
-gcc9
 gebaar-libinput-git
 gimp-plugin-registry
 glxinfo
@@ -29,9 +29,9 @@ lib32-gmp4
 libxft-bgra
 mpdris2
 mpv-mpris
-neovim-remote
 nerd-fonts-fira-mono
 nerd-fonts-hack
+otf-sansita
 pacman4console
 pacmixer
 paq8o
@@ -40,9 +40,9 @@ perl-expect
 pipes.sh
 polipo
 polipo-runit
+pulseaudio-subscribe-git
 python-loguru
 python-transmissionrpc
-qt4
 qucs
 safeeyes
 sc-im
@@ -51,7 +51,9 @@ srecord
 transmission-trackers-git
 tremc-git
 ttf-alegreya-sans
+ttf-allura
 ttf-arabeyes-fonts
+ttf-choc
 ttf-gelasio-ib
 ttf-impallari-cantora
 ttf-impallari-dosis
@@ -61,5 +63,6 @@ tulizu
 uw-ttyp0-font
 vazir-fonts
 xkblayout-state-git
+xkblayout-subscribe-git
 zpaq
 zsh-fast-syntax-highlighting-git
