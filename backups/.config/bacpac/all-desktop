@@ -225,7 +225,6 @@ glxinfo
 gmic
 gmp
 gnupg
-gnustep-base
 gnutls
 gobject-introspection-runtime
 goocanvas
@@ -836,7 +835,6 @@ p7zip
 pacman
 pacman-contrib
 pacman4console
-pacmixer
 pam
 pambase
 pamixer
@@ -844,7 +842,6 @@ pango
 pangomm
 parted
 paru
-paswitch
 patch
 pavucontrol
 pciutils
@@ -908,6 +905,7 @@ protonvpn-cli-ng
 psmisc
 pulseaudio-alsa
 pulseaudio-subscribe-git
+pulsemixer
 pup
 pv
 pygtk
