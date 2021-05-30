@@ -6,6 +6,7 @@ adms
 adobe-source-code-pro-fonts
 adwaita-icon-theme
 alacritty
+alsa-card-profiles
 alsa-lib
 alsa-plugins
 alsa-topology-conf
@@ -563,6 +564,7 @@ libjpeg-turbo
 libkate
 libksba
 liblangtag
+libldac
 libldap
 liblouis
 liblqr
@@ -608,6 +610,7 @@ libodfgen
 libofa
 libogg
 libomxil-bellagio
+libopenaptx
 liborcus
 libp11-kit
 libpagemaker
@@ -880,6 +883,10 @@ picom
 pinentry
 pinta
 pipes.sh
+pipewire
+pipewire-alsa
+pipewire-media-session
+pipewire-pulse
 pixman
 pkcs11-helper
 pkgconf
@@ -899,10 +906,8 @@ protobuf
 protobuf-c
 protonvpn-cli-ng
 psmisc
-pulseaudio
 pulseaudio-alsa
 pulseaudio-subscribe-git
-pulseaudio-virtualmic
 pup
 pv
 pygtk

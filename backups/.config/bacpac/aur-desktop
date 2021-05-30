@@ -43,7 +43,6 @@ pfetch
 polipo
 polipo-runit
 pulseaudio-subscribe-git
-pulseaudio-virtualmic
 python-soccer-cli-git
 python-transmissionrpc
 qucs
