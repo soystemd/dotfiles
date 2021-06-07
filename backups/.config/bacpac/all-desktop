@@ -1,5 +1,6 @@
 a52dec
 aalib
+abseil-cpp
 acl
 adbfs-rootless-git
 adms
@@ -98,7 +99,6 @@ cool-retro-term
 coolreader
 coreutils
 cowsay
-cpupower
 cryptsetup
 cups
 cups-filters
@@ -490,7 +490,6 @@ libbsd
 libbytesize
 libcaca
 libcanberra
-libcanberra-pulse
 libcap
 libcap-ng
 libcddb
@@ -499,6 +498,7 @@ libcdio-paranoia
 libcdr
 libcloudproviders
 libcmis
+libcolord
 libconfig
 libcroco
 libcups
@@ -888,8 +888,6 @@ pixman
 pkcs11-helper
 pkgconf
 playerctl
-polipo
-polipo-runit
 polkit
 poppler
 poppler-data
@@ -903,7 +901,6 @@ protobuf
 protobuf-c
 protonvpn-cli-ng
 psmisc
-pulseaudio-alsa
 pulseaudio-subscribe-git
 pulsemixer
 pup
@@ -944,6 +941,7 @@ python-markdown
 python-markupsafe
 python-mccabe
 python-mock
+python-more-itertools
 python-mpd2
 python-msgpack
 python-mutagen
@@ -1041,10 +1039,6 @@ rsync
 rtkit
 rtmpdump
 rubberband
-ruby
-ruby-irb
-ruby-reline
-rubygems
 run-parts
 runit
 runit-rc
@@ -1115,6 +1109,7 @@ timidity++
 tk
 tor
 tor-runit
+torsocks
 transmission-cli
 transmission-trackers-git
 trash-cli
