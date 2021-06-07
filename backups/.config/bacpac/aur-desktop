@@ -24,6 +24,7 @@ gtklp
 hydroxide
 insect
 jmtpfs
+lfutils-git
 lib32-gmp4
 libxft-bgra
 lscolors-git
@@ -34,6 +35,7 @@ neovim-remote
 nerd-fonts-fira-mono
 nerd-fonts-hack
 nottetris2
+opener-git
 otf-sansita
 pacman4console
 perl-expect

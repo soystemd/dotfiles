@@ -341,6 +341,7 @@ ldns
 lensfun
 less
 lf
+lfutils-git
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
@@ -815,6 +816,7 @@ openal
 opencascade
 opencore-amr
 opencv
+opener-git
 openexr
 openjpeg2
 openmpi
