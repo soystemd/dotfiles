@@ -224,6 +224,7 @@ glu
 glxinfo
 gmic
 gmp
+gnome-epub-thumbnailer
 gnupg
 gnutls
 gobject-introspection-runtime
@@ -342,6 +343,7 @@ lensfun
 less
 lf
 lfutils-git
+lfutils-meta
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins

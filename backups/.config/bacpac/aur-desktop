@@ -1,6 +1,4 @@
 adbfs-rootless-git
-archivemount
-atool-git
 bash-pipes
 bashmount
 bdf-zevv-peep
@@ -25,6 +23,7 @@ hydroxide
 insect
 jmtpfs
 lfutils-git
+lfutils-meta
 lib32-gmp4
 libxft-bgra
 lscolors-git
