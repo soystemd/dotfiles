@@ -118,6 +118,8 @@ desktop-file-utils
 device-mapper
 devil
 dialog
+dict-gcide
+dict-wikt-en-all
 dictd
 diffutils
 dina-font
@@ -138,7 +140,6 @@ elogind
 elogind-runit
 enchant
 epson-inkjet-printer-l800
-epub-thumbnailer-git
 epy-git
 equilux-theme
 esysusers
@@ -306,17 +307,12 @@ iw
 jack
 jansson
 jasper
-java-environment-common
-java-runtime-common
 jbig2dec
-jdk8-openjdk
 jhead
 jmtpfs
 joyutils
 jpegoptim
 jq
-jre8-openjdk
-jre8-openjdk-headless
 js78
 json-c
 json-glib
@@ -846,6 +842,7 @@ pango
 pangomm
 parted
 paru
+pass
 patch
 pavucontrol
 pciutils
@@ -1186,6 +1183,7 @@ vamp-plugin-sdk
 vazir-fonts
 vi
 vid.stab
+vimdict-git
 vitetris
 vmaf
 volume_key

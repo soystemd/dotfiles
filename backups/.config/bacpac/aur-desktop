@@ -3,9 +3,10 @@ bash-pipes
 bashmount
 bdf-zevv-peep
 cava
+dict-gcide
+dict-wikt-en-all
 dragon-drag-and-drop-git
 epson-inkjet-printer-l800
-epub-thumbnailer-git
 epy-git
 equilux-theme
 figlet-fonts
@@ -42,7 +43,6 @@ pfetch
 pulseaudio-subscribe-git
 python-soccer-cli-git
 python-transmissionrpc
-qucs
 ripcord
 safeeyes
 sc-im
@@ -68,6 +68,7 @@ tulizu
 uw-ttyp0-font
 uwufetch
 vazir-fonts
+vimdict-git
 vitetris
 webui-aria2
 xkblayout-state-git
