@@ -1,3 +1,15 @@
+2021-06-13 20:51 paclast
+2021-06-13 19:39 paclist
+2021-06-13 17:04 tmpcleaner
+2021-06-13 16:21 fcron
+2021-06-13 16:21 fcron-runit
+2021-06-13 12:47 chaotic-keyring
+2021-06-13 12:47 chaotic-mirrorlist
+2021-06-11 22:09 ttf-league-script-number-one
+2021-06-11 22:09 ttf-fanwood
+2021-06-11 22:02 ttf-goudy-bookletter-1911
+2021-06-11 21:47 ttf-ebgaramond
+2021-06-11 02:42 mdpdf-git
 2021-06-10 23:03 vimdict-git
 2021-06-10 17:04 dictd
 2021-06-10 15:05 dict-wikt-en-all
@@ -31,7 +43,6 @@
 2021-05-06 16:35 alacritty
 2021-05-05 23:15 zip
 2021-05-04 02:01 zsh-completions
-2021-05-03 20:12 lowdown
 2021-05-02 00:51 gimp-plugin-registry
 2021-05-01 20:49 jhead
 2021-05-01 02:18 insect
@@ -89,8 +100,6 @@
 2021-02-26 20:31 lib32-gmp4
 2021-02-26 20:30 python-pylint
 2021-02-26 17:10 paru
-2021-02-26 17:04 chaotic-mirrorlist
-2021-02-26 17:04 chaotic-keyring
 2021-02-26 14:28 sc-im
 2021-02-26 13:34 python-pyxdg
 2021-02-26 13:28 hydroxide
@@ -244,8 +253,6 @@
 2020-08-29 22:52 intltool
 2020-08-29 22:51 goocanvas
 2020-08-28 16:16 optipng
-2020-08-27 19:31 fcron
-2020-08-27 19:31 fcron-runit
 2020-08-26 17:11 wget
 2020-08-26 16:55 cups
 2020-08-26 16:55 cups-runit
@@ -307,7 +314,6 @@
 2020-08-05 12:15 p7zip
 2020-08-05 12:14 unrar
 2020-08-05 01:51 cowsay
-2020-08-05 01:51 fortune-mod
 2020-08-05 00:06 gotop-bin
 2020-08-04 21:10 xorg-xprop
 2020-08-04 20:51 feh

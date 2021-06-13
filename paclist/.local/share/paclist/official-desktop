@@ -58,7 +58,6 @@ foliate
 foomatic-db
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
-fortune-mod
 fzf
 gawk
 gcc
@@ -113,7 +112,6 @@ llvm
 lm_sensors
 lm_sensors-runit
 lostfiles
-lowdown
 lsof
 m4
 maim

@@ -184,7 +184,6 @@ fonts-meta-extended-lt
 foomatic-db
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
-fortune-mod
 freeimage
 freetype2
 fribidi
@@ -750,6 +749,7 @@ mari0
 mbedtls
 md4c
 mdadm
+mdpdf-git
 mediainfo
 mesa
 metis
@@ -797,6 +797,7 @@ nginx-runit
 ngspice
 node-gyp
 nodejs
+nodejs-nopt
 noto-fonts
 noto-fonts-emoji
 nottetris2
@@ -832,6 +833,8 @@ otf-sansita
 otf-symbola
 p11-kit
 p7zip
+paclast
+paclist
 pacman
 pacman-contrib
 pacman4console
@@ -1108,6 +1111,7 @@ thin-provisioning-tools
 tigervnc
 timidity++
 tk
+tmpcleaner
 tor
 tor-runit
 torsocks
@@ -1127,10 +1131,13 @@ ttf-choc
 ttf-courier-prime
 ttf-dejavu
 ttf-droid
+ttf-ebgaramond
+ttf-fanwood
 ttf-fira-code
 ttf-fira-mono
 ttf-font-awesome
 ttf-gelasio-ib
+ttf-goudy-bookletter-1911
 ttf-hack
 ttf-heuristica
 ttf-impallari-cantora
@@ -1138,6 +1145,7 @@ ttf-impallari-dosis
 ttf-input
 ttf-joypixels
 ttf-lato
+ttf-league-script-number-one
 ttf-liberation
 ttf-merriweather
 ttf-merriweather-sans

@@ -28,6 +28,7 @@ lfutils-meta
 lib32-gmp4
 libxft-bgra
 lscolors-git
+mdpdf-git
 mkb-git
 mpdris2
 mpv-mpris
@@ -37,6 +38,8 @@ nerd-fonts-hack
 nottetris2
 opener-git
 otf-sansita
+paclast
+paclist
 pacman4console
 perl-expect
 pfetch
@@ -50,14 +53,19 @@ simple-mtpfs
 simulide
 skroll
 srecord
+tmpcleaner
 transmission-trackers-git
 tremc-git
 ttf-alegreya-sans
 ttf-allura
 ttf-arabeyes-fonts
 ttf-choc
+ttf-ebgaramond
+ttf-fanwood
+ttf-goudy-bookletter-1911
 ttf-impallari-dosis
 ttf-input
+ttf-league-script-number-one
 ttf-monoid
 ttf-mplus
 ttf-profont-iix
