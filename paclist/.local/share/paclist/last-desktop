@@ -1,3 +1,4 @@
+2021-06-14 01:18 dict-wn
 2021-06-13 20:51 paclast
 2021-06-13 19:39 paclist
 2021-06-13 17:04 tmpcleaner
@@ -12,7 +13,6 @@
 2021-06-11 02:42 mdpdf-git
 2021-06-10 23:03 vimdict-git
 2021-06-10 17:04 dictd
-2021-06-10 15:05 dict-wikt-en-all
 2021-06-10 14:59 dict-gcide
 2021-06-10 13:09 pass
 2021-06-09 22:47 lfutils-git
@@ -40,7 +40,6 @@
 2021-05-08 03:25 tigervnc
 2021-05-06 23:52 bash-pipes
 2021-05-06 23:22 zsh-fast-syntax-highlighting-git
-2021-05-06 16:35 alacritty
 2021-05-05 23:15 zip
 2021-05-04 02:01 zsh-completions
 2021-05-02 00:51 gimp-plugin-registry

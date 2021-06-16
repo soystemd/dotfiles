@@ -6,7 +6,6 @@ adbfs-rootless-git
 adms
 adobe-source-code-pro-fonts
 adwaita-icon-theme
-alacritty
 alsa-card-profiles
 alsa-lib
 alsa-plugins
@@ -119,7 +118,7 @@ device-mapper
 devil
 dialog
 dict-gcide
-dict-wikt-en-all
+dict-wn
 dictd
 diffutils
 dina-font
