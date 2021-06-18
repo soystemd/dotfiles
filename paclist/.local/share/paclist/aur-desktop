@@ -44,6 +44,7 @@ pacman4console
 perl-expect
 pfetch
 pulseaudio-subscribe-git
+python-pywalfox
 python-soccer-cli-git
 python-transmissionrpc
 ripcord
@@ -66,7 +67,6 @@ ttf-goudy-bookletter-1911
 ttf-impallari-dosis
 ttf-input
 ttf-league-script-number-one
-ttf-monoid
 ttf-mplus
 ttf-profont-iix
 ttf-spacemono

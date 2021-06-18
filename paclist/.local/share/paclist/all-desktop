@@ -970,6 +970,8 @@ python-pyqt5-sip
 python-pyrfc3339
 python-pythondialog
 python-pytz
+python-pywal
+python-pywalfox
 python-pyxdg
 python-qtpy
 python-requests

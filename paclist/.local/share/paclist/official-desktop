@@ -177,6 +177,7 @@ python-pylint
 python-pynvim
 python-pyqt5
 python-pythondialog
+python-pywal
 python-pyxdg
 python-qtpy
 python-setuptools
@@ -225,6 +226,7 @@ ttf-hack
 ttf-joypixels
 ttf-lato
 ttf-monofur
+ttf-monoid
 ttf-ms-fonts
 ttf-nerd-fonts-symbols
 ttf-proggy-clean
