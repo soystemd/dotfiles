@@ -20,6 +20,7 @@ gimp-plugin-registry
 glxinfo
 gotop-bin
 gtklp
+htop-vim-git
 hydroxide
 insect
 jmtpfs
@@ -36,6 +37,7 @@ neovim-remote
 nerd-fonts-fira-mono
 nerd-fonts-hack
 nottetris2
+obfs4proxy-bin
 opener-git
 otf-sansita
 paclast
