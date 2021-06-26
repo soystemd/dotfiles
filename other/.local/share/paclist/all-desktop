@@ -917,7 +917,6 @@ python-argcomplete
 python-astroid
 python-attrs
 python-babel
-python-beautifulsoup4
 python-cachecontrol
 python-cffi
 python-chardet
@@ -982,7 +981,6 @@ python-retrying
 python-setuptools
 python-six
 python-soccer-cli-git
-python-soupsieve
 python-toml
 python-transmissionrpc
 python-typing_extensions
