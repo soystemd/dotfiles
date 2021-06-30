@@ -3,6 +3,7 @@ bash-pipes
 bashmount
 bdf-zevv-peep
 cava
+colorz
 dict-gcide
 dict-wn
 dragon-drag-and-drop-git
@@ -47,6 +48,8 @@ pacman4console
 perl-expect
 pfetch
 pulseaudio-subscribe-git
+python-colorthief
+python-haishoku
 python-pywalfox
 python-soccer-cli-git
 python-transmissionrpc

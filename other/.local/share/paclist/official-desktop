@@ -82,6 +82,7 @@ gzip
 hblock
 highlight
 id3lib
+id3v2
 inetutils
 intel-ucode
 intltool
@@ -155,12 +156,12 @@ perl-image-exiftool
 picom
 pinta
 pipewire
-pipewire-alsa
-pipewire-pulse
 pkgconf
 playerctl
 progress
 protonvpn-cli-ng
+pulseaudio
+pulseaudio-alsa
 pulsemixer
 pup
 pv
