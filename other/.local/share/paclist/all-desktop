@@ -691,6 +691,7 @@ libxcomposite
 libxcrypt
 libxcursor
 libxdamage
+libxdg-basedir
 libxdmcp
 libxext
 libxfixes
@@ -883,7 +884,7 @@ perl-www-robotrules
 perl-xml-parser
 pfetch
 physfs
-picom
+picom-ibhagwan-git
 pinentry
 pinta
 pipes.sh
