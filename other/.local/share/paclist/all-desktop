@@ -190,6 +190,7 @@ fribidi
 fstrm
 fuse-common
 fuse2
+fuse3
 fzf
 gawk
 gc
@@ -1090,6 +1091,7 @@ sqlite
 sratom
 srecord
 srt
+sshfs
 stalonetray
 startup-notification
 stfl
@@ -1128,6 +1130,7 @@ transmission-cli
 transmission-trackers-git
 trash-cli
 tree
+tree-sitter
 tremc-git
 tslib
 ttf-alegreya-sans
